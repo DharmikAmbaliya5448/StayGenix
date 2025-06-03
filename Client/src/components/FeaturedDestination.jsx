@@ -20,7 +20,7 @@ const FeaturedDestination = () => {
       </div>
       <button
         onClick={() => {
-          navigate("/rooms");
+          navigate("/rooms/");
           scrollTo(0, 0);
         }}
         className="my-16 px-14 pt-2 text-sm font-medium border border-gray-300 rounded-full bg-white hover:bg-gray-50 transition-all cursor-pointer"
