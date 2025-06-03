@@ -2,6 +2,7 @@ import logo from "./logo.svg";
 import logo1 from "./logo1.png";
 import logo2 from "./logo2.png";
 import logo3 from "./logo3.png";
+import hero2 from "./hero2.jpg";
 import searchIcon from "./searchIcon.svg";
 import userIcon from "./userIcon.svg";
 import calenderIcon from "./calenderIcon.svg";
@@ -46,6 +47,7 @@ export const assets = {
   logo1,
   logo2,
   logo3,
+  hero2,
   searchIcon,
   userIcon,
   calenderIcon,
